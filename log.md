@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 24, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Resumed the 100DaysOfCode Challenge having missed some couple of days. I will be working on my porfolio page for the freeCodeCamp 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** My goal and motivation for taking up this challenge to be a front-end developer with special focus on JavaScript and React. I find the freeCodeCamp.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
