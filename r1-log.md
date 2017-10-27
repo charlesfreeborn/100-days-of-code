@@ -9,3 +9,4 @@ Started the #100DaysOfCode. I will be working on my portfolio page for the freeo
 
 ### R1Day2
 Finished the portfolio website for the freeCodeCamp Front-End Development curriculum. Here is the link to the page. [Portfolio Website](https://codepen.io/ceteure/full/RZpNBV/)
+Beginning the basic javascript with freeCodeCamp.
