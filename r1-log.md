@@ -21,7 +21,7 @@ Studied and practie on ES6 arrow functions. The take away from the session -
 An example: 
 
 ```
-`const readingLists = ["MDN", "Eloquent JavaScript", "Speaking JavaScript"];
+const readingLists = ["MDN", "Eloquent JavaScript", "Speaking JavaScript"];
 
 const readingGoals = readingLists.map((readingList)=>
 {
