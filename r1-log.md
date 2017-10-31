@@ -30,3 +30,10 @@ return `${readingList} - currently reading these materials`;
 
 console.log(readingGoals);
 ```
+
+### R1Day4
+
+Studied and practice on arrow functions in ES6. The key take aways for today's training and practice session is:
+1. Arrow functions are always anonymous
+2. Arrow functions can work with anything
+3. You can use an arrow function inside of a regular function and it will inherit the value of "this".
