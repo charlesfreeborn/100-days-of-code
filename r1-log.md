@@ -37,3 +37,11 @@ Studied and practice on arrow functions in ES6. The key take aways for today's t
 1. Arrow functions are always anonymous
 2. Arrow functions can work with anything
 3. You can use an arrow function inside of a regular function and it will inherit the value of "this".
+
+### R1Day5
+
+I did more practice on arrow functions in ES6 to enable me get a hang on arrow functions as well as getting my hands dirty. 
+
+### R1Day6
+Was quite a busy day for me. Watched some training videos on Template strings in ES6. 
+I also got to complete my training on React Part 1 by [codecademy](https://www.codecademy.com/learn/react-101) and I am truly excited about this. I will start putting to work the lessons learnt by building projects with React.
